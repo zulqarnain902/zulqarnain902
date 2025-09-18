@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zulqarnain khan</h1>
-<h3 align="center">A passionate fullstack developer from Pakistan</h3>
+[<h1 align="center">Hi 👋, I'm Zulqarnain khan</h1>
+](https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&text=Zulqarnain%20khan&textBg=false&reversal=false&section=header)<h3 align="center">A passionate fullstack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zulqarnain902&label=Profile%20views&color=0e75b6&style=flat" alt="zulqarnain902" /> </p>
 
